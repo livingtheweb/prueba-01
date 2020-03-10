@@ -1,3 +1,5 @@
 
 
   >> Le agremamos contenido al archivo
+
+>> Bien, agregamos el slider!
